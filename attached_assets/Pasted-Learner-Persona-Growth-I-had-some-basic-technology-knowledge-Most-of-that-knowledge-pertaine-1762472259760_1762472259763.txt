@@ -1,0 +1,86 @@
+Learner Persona
+•	Growth:
+	I had some basic technology knowledge. Most of that knowledge pertained to older applications though. Through this program, I have been introduced to some other programs I was unaware of, or different ways to utilize programs I already knew. It has also brought things I knew but didn’t actually utilized back to the forefront.
+•	3 New Superpowers
+	I expanded my cybersecurity threat knowledge.
+	I was especially surprised to find out that when a pop up occurs, it is possible to get a virus by clicking the “x” meant to close it. Learning the alternative ways to close it was helpful as well!
+	Confidence to integrate Tinkercad into my classroom. 
+	I had heard of Tinkercad before, and even checked it out, I felt overwhelmed. Because of this class and another that I took with the same instructor “Orlando”, my student will being utilizing Tinkercad shortly for his architecture program.
+	Overcoming apprehension of trying new technological products.
+	I am currently teaching coding and seeing your code do different things on the computer screen is exciting. The idea of coding a robot or something seemed too difficult. This product seems like a much less scary approach to “off screen” coding and bridging that gap.
+
+•	Reinforcement
+	Cybersecurity Challenge
+	In the cybersecurity challenge, you would expect to be able to trust your team. I liked that because of that aspect and the fun we had doing the activity, I believe that it will help remind us that threats can come even from those you are “supposed” to trust, and to always be on your guard to ensure your safety.
+	Lego Education Kit Challenge
+	This challenge was meant to get us to follow the Technical Knowledge Acquisition Strategies. It was fun to see that pretty much everyone utilized these without realizing it. It was also great to see the various ways people overcame their obstacles.
+
+	Data Organizing Activity
+	My favorite parts of this activity were learning that even a few seconds of time and save a lot of time later and that there isn’t just one right way to organize things. Those who spent even just 20 seconds doing some basic organizing did better finding their items compared to those that did not. In round two when I organized, mine sorting was completely different than everyone else. However, because I understood how I had it organized, I found my items extremely quickly.
+
+•	Comfort level
+	Before, I wasn’t necessarily against trying new types of technology, however, many of the sites tend to make things a bit overwhelming. The class has helped me to realize that it is not as overwhelming as it seems and that if you utilize simple techniques, like the Technical Knowledge Acquisition Strategies, then there are ways to find out how to use those programs more simply. I have grown more confident that I am even implementing some we heard about.
+
+
+•	Technical Learning Acquisition Strategy applications
+	Personal
+	My sliding door on my van was stuck open today. This is the second time it happened. Last time, I spent like 30 minutes messing with it and somehow fixed it. When it happened today, I didn’t have 30 minutes just to play around with it. Then I remembered Orlando and Barbara saying “If you encounter a problem, most likely someone else has already experienced that same problem”. Within 2 minutes of looking online, I found a Reddit thread with my question and the solution and I was able to close my door.
+	Professional
+	Even though I have the answers to the math problems in my book, I still didn’t understand how the answer was reached. I ended up utilizing the thing on the phone where it can search a picture you take and I was able to have google help me to understand why.
+	Supported someone else
+	My dad wasn’t feeling well and my brother was debating taking him to the hospital despite my dad not wanting to go. First, I asked the symptoms and tried to do some research. When this didn’t help, I remembered that I have a friend who is a nurse and reached out to her. She asked me questions that I didn’t even think to look up. She felt that we should take him to the hospital and with her endorsement, it also helped my dad rethink his choice and decide to go as well.
+
+•	Transformational Learner
+	Three Transformational Learner Principles
+	Nurture
+•	It’s about building relationships so that students feel safe and more confident to try new things in order for them to grow
+	Guide
+•	It is about helping the students grow by showing them how to ask questions and investigate, rather than just being given the answers
+	Empower
+•	Encourages independent thought and taking ownership over their thoughts and ideas
+	Nurture as a student
+	Feeling as though that they see me and listen to the things I say and are receptive to the questions I ask
+•	I personally like to see progress visually. Using a program that can show that progression, but also has a place where the teacher can give encouragement, praise, and constructive criticism would be ideal to foster this feeling.
+	Nurture as an educator
+	Every student feeling like they are being seen and heard, where they understand that they can make mistakes and its ok.
+•	Class dojo and other programs have visuals to help in a fun way how the students mood is or how they are feeling. Playing games like Kahoot can allow them to try and not be too upset if they answer a question wrong
+
+•	ISTE Standards
+	2.4 Collaborator
+	In the past and even now whenever an opportunity arises that I am able to learn a new skill or work with other educators to discuss ways to enhance different aspects of our educational system, I always volunteer to be in those groups to put forth my ideas and work with others on their ideas.
+
+
+
+
+
+
+•	Cyber Security
+	I was already aware of what I deem to be obvious threats. For instance, emails that are not legit, random pop ups and the like. However, my awareness was definitely heightened in the knowledge of how easily and insider threat can cause harm as well as little tricks the “x” on a pop up can actually be where they intend to get you.
+
+
+•	Data organizing
+	Organizing has always been something that I enjoy doing, so I did not learn many things from this segment.
+	How I manage depends on what I am trying to store. I usually use between 3 and 5 levels. 
+
+
+
+
+
+
+
+•	TPACK
+	The TPACK framework helps teachers integrate technology in ways that enhance learning by combining:
+	Content Knowledge (CK): What you teach
+	Pedagogical Knowledge (PK): How you teach
+	Technological Knowledge (TK): The tools you use
+	✅ Why It Works
+	Encourages purposeful tech use aligned with learning goals
+	Ensures digital tools fit both the subject and teaching method
+	Builds teacher confidence in choosing and using technology
+	Promotes student engagement and deeper understanding
+	📚 Example
+	A math teacher using a graphing app:
+•	CK: Knows algebra concepts
+•	PK: Designs inquiry-based lessons
+•	TK: Uses the app to visualize equations and foster exploration
+	TPACK helps teachers move beyond just using tech—it guides them to use it meaningfully. Want help applying it to a specific lesson or subject? I’d love to help you design something impactful.
