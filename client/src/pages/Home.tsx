@@ -5,6 +5,7 @@ import GrowthStory from "@/components/GrowthStory";
 import TechStrategiesTimeline from "@/components/TechStrategiesTimeline";
 import TransformationalPrinciples from "@/components/TransformationalPrinciples";
 import TPACKFramework from "@/components/TPACKFramework";
+import ISTEStandards from "@/components/ISTEStandards";
 import FooterSection from "@/components/FooterSection";
 
 import heroImage from '@assets/generated_images/Hero_educational_technology_classroom_ad9fdcfa.png';
@@ -70,6 +71,7 @@ export default function Home() {
       <TechStrategiesTimeline />
       <TransformationalPrinciples principles={principles} />
       <TPACKFramework />
+      <ISTEStandards />
       <FooterSection />
     </div>
   );
