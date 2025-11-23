@@ -2,6 +2,8 @@ import HeroSection from "@/components/HeroSection";
 import SuperpowersSection from "@/components/SuperpowersSection";
 import ReinforcementSection from "@/components/ReinforcementSection";
 import GrowthStory from "@/components/GrowthStory";
+import LearnerPersona from "@/components/LearnerPersona";
+import JournalingExperience from "@/components/JournalingExperience";
 import TechStrategiesTimeline from "@/components/TechStrategiesTimeline";
 import TransformationalPrinciples from "@/components/TransformationalPrinciples";
 import TPACKFramework from "@/components/TPACKFramework";
@@ -15,6 +17,7 @@ import dataImage from '@assets/generated_images/Data_organizing_activity_concept
 import nurtureImage from '@assets/generated_images/Nurture_principle_illustration_a04244c9.png';
 import guideImage from '@assets/generated_images/Guide_principle_illustration_39b552ac.png';
 import empowerImage from '@assets/generated_images/Empower_principle_illustration_3a172da8.png';
+import personaImage from '@assets/IMG_20251123_164824_1763938432636.jpg';
 
 export default function Home() {
   const activities = [
@@ -66,8 +69,10 @@ export default function Home() {
     <div className="min-h-screen">
       <HeroSection heroImage={heroImage} />
       <GrowthStory />
+      <LearnerPersona personaImage={personaImage} />
       <SuperpowersSection />
       <ReinforcementSection activities={activities} />
+      <JournalingExperience />
       <TechStrategiesTimeline />
       <TransformationalPrinciples principles={principles} />
       <TPACKFramework />
